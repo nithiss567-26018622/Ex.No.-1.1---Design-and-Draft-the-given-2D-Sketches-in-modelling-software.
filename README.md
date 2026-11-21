@@ -39,7 +39,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 <img width="1222" height="562" alt="WhatsApp Image 2026-11-20 at 8 06 06 PM (8)" src="https://github.com/user-attachments/assets/037da8a9-6c33-4e88-93fe-d1a5c96b588d" />
 <img width="1920" height="1080" alt="Screenshot 2026-11-21 085720" src="https://github.com/user-attachments/assets/8d82ddcf-1923-4a51-8df6-a48e39d23990" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-21 085720" src="https://github.com/user-attachments/assets/20f24ef8-6120-445e-bb94-99d4ebb1d2fd" />
+
 
 
 
