@@ -17,25 +17,32 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+<img width="1227" height="567" alt="WhatsApp Image 2026-11-20 at 8 06 06 PM (7)" src="https://github.com/user-attachments/assets/e1f7f504-3f9d-4a8f-a5fb-ca861f24f68f" />
+
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+<img width="1222" height="562" alt="WhatsApp Image 2026-11-20 at 8 06 06 PM (8)" src="https://github.com/user-attachments/assets/35c08159-a964-4eac-97ed-321e0bb7d627" />
+
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+<img width="1226" height="562" alt="WhatsApp Image 2026-11-20 at 8 06 06 PM (9)" src="https://github.com/user-attachments/assets/7d475ca1-e68e-4a2e-a58d-267e58d60f61" />
+
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+<img width="1222" height="560" alt="WhatsApp Image 2026-11-20 at 8 06 06 PM (12)" src="https://github.com/user-attachments/assets/d941fd38-7cb6-4037-9097-4049fb09e6bd" />
+
 
 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
+<img width="1222" height="562" alt="WhatsApp Image 2026-11-20 at 8 06 06 PM (8)" src="https://github.com/user-attachments/assets/037da8a9-6c33-4e88-93fe-d1a5c96b588d" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-21 085720" src="https://github.com/user-attachments/assets/8d82ddcf-1923-4a51-8df6-a48e39d23990" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-21 085720" src="https://github.com/user-attachments/assets/20f24ef8-6120-445e-bb94-99d4ebb1d2fd" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+
+
 
 
 ## SKETCHS
